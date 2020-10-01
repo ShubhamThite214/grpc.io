@@ -42,7 +42,7 @@ commands:
 The gRPC website is _automatically_ published by [Netlify][]. Any time changes
 are committed to the default branch, the site is rebuilt and redeployed.
 
-## Site content
+## Site Content
 
 All of the [Markdown](https://www.markdownguide.org) content used to build the
 site's documentation, blog, etc. is in the [content](content) directory.
